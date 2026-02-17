@@ -1,1 +1,1 @@
-https://github.com/Noro18/js-project-tabs
+Project URL: https://roadmap.sh/projects/simple-tabs
