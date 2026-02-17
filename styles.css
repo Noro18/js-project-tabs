@@ -1,0 +1,12 @@
+.tab-content {
+  display: none;
+}
+
+.tab-content.active { 
+  display: block; 
+}
+
+.tab-btn.active {
+  background: black;
+  color: white;
+}
